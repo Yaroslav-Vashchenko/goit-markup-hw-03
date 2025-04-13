@@ -143,8 +143,6 @@ img {
   padding-bottom: 188px;
 }
 
-
-
 .section-one .title {
   font-weight: 700;
   font-size: 56px;
@@ -186,7 +184,7 @@ img {
   background-color: #404bbf;
 }
 
-.section-two{
+.section-two {
   padding-top: 120px;
   padding-bottom: 120px;
 }
@@ -233,7 +231,8 @@ img {
 
 .section-three {
   background: #f4f4fd;
-  padding: 120px 0}
+  padding: 120px 0;
+}
 
 .section-three-title {
   font-weight: 700;
@@ -277,12 +276,12 @@ img {
 }
 
 .cart-content {
-  padding: 32px 0
+  padding: 32px 0;
 }
 
-.section-four{
+.section-four {
   padding-top: 120px;
-    padding-bottom: 120px
+  padding-bottom: 120px;
 }
 
 .section-four .main-title {
@@ -307,9 +306,9 @@ img {
 }
 
 .portfolio-list-content {
-padding: 32px 16px;
-border: 1px solid #e7e9fc;
-border-top: none;
+  padding: 32px 16px;
+  border: 1px solid #e7e9fc;
+  border-top: none;
 }
 
 .portfolio-list .title {
@@ -352,8 +351,6 @@ border-top: none;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #f4f4fd;
-    margin-bottom: 16px;
-      display: inline-block;
 }
 
 .footer-link {
@@ -367,4 +364,6 @@ border-top: none;
   letter-spacing: 0.02em;
   color: #f4f4fd;
   max-width: 264px;
+  margin-bottom: 16px;
+  display: inline-block;
 }

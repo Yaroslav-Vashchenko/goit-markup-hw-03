@@ -139,12 +139,10 @@ img {
 
 .section-one {
   background-color: #2e2f42;
-  
-}
-
-.first-page{
   padding: 188px 0
 }
+
+
 
 .section-one .title {
   font-weight: 700;
@@ -187,6 +185,10 @@ img {
   background-color: #404bbf;
 }
 
+.section-two{
+  padding: 120px 0
+}
+
 .visually-hidden {
   position: absolute;
   width: 1px;
@@ -204,7 +206,6 @@ img {
   display: flex;
   align-items: center;
   gap: 24px;
-  padding: 120px 0
 }
 
 .advantages-item {
@@ -306,6 +307,7 @@ img {
 .portfolio-list-content {
 padding: 32px 16px;
 border: 1px solid #e7e9fc;
+border-top: none;
 }
 
 .portfolio-list .title {
@@ -352,8 +354,8 @@ border: 1px solid #e7e9fc;
 
 .footer-link {
   text-decoration: none;
-  display: block;
   margin-bottom: 16px;
+  display: inline-block;
 }
 
 .footer .text {
